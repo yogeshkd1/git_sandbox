@@ -1,4 +1,3 @@
 #!/usr/bin/env ruby
 
-puts "Hello World!"
-puts "Welcome to CodeClub!"
+puts "Welcome to CodeClub! 1233455789"
