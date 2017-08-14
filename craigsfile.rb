@@ -7,3 +7,8 @@ puts "Why didn't that last one go?"
 puts "OK, I think I got this figured out...."
 puts "No, I guess not."
 puts "OK, commit to Craigs_Branch worked. Can I commit this to master (probably not)?"
+git commit origin master
+puts "Nope. It just says \"Everything up to date\" and nothing changes. But the commit shows up in the log."
+puts "OK, commit to Craigs_Branch again."
+git commit origin Craigs_Branch
+
