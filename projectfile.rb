@@ -2,7 +2,5 @@
 
 puts "Welcome to CodeClub! 1233455789"
 puts "Now we are on codeclubsocial"
-puts "This is Craig's mofication"
-puts "This is Craig's modification speeled correctly"
 
 # Sharon can type!!!
