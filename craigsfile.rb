@@ -15,5 +15,6 @@ puts "Modify all three files to track the commit statement"
 puts "OK, merged back. Now modify on master"
 puts "That worked. Now try to push to Craigs_Branch, even though that's already been merged..."
 puts "That didn't work, not surpisingly. Now try pushing to master....."
+puts "P{re-merge commit to master, two commits on Craigs_Branch_1."
 
 
