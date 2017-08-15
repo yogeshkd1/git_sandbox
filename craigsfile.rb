@@ -13,5 +13,6 @@ puts "OK, commit to Craigs_Branch again."
 git commit origin Craigs_Branch
 puts "Modify all three files to track the commit statement"
 puts "OK, merged back. Now modify on master"
+puts "That worked. Now try to commit to Craigs_Branch, even though that's already been merged..."
 
 
