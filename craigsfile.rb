@@ -12,4 +12,6 @@ puts "Nope. It just says \"Everything up to date\" and nothing changes. But the 
 puts "OK, commit to Craigs_Branch again."
 git commit origin Craigs_Branch
 puts "Modify all three files to track the commit statement"
+puts "OK, merged back. Now modify on master"
+
 
